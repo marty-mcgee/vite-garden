@@ -1,12 +1,15 @@
 .DS_Store
-.env*
+.env
+.env.*
 .vite-ssg-dist
 .vite-ssg-temp
 *.local
 dist
 dist-ssr
 node_modules
-/node_modules
 **/node_modules
 .idea/
 *.log
+*.pem
+*.crt
+.npmrc
