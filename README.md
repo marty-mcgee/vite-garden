@@ -40,3 +40,5 @@ to preview the PWA service worker use (you can also use `pnpm preview`):
 ```bash
 pnpm preview-https
 ```
+
+> a part of the 🌱 threed.ai code family
